@@ -10,9 +10,9 @@ how to extract the meaningful insights from the dataset and how to showcase the 
 In this project, we focus on the Newyork Tax dataset extracted in between the period of 2004-2014.
 
 ## Tech 
-Python 
-Data Analysis
-Power BI
+* Python 
+* Data Analysis
+* Power BI
 
 ## Feedback
 
